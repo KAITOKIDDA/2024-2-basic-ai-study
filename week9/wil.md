@@ -1,5 +1,3 @@
-# 7주차 강의 내용 요약
-
 ## 1. Object Detection의 정의
 - **Object Detection**은 특정 객체(Classification)가 이미지 내에서 어느 위치(Localization)에 있는지를 파악하는 작업이다.
 - 모델은 **Object Label**과 **Bounding Box (BBox) 정보**를 제공한다.
